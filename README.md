@@ -1,5 +1,11 @@
 # Geneses_python
 Contains 5 Exercises solutions.
+
+
+
+
+
+
 Exercise1:
          answers to given question that is available in assign1python.pdf file.
          
